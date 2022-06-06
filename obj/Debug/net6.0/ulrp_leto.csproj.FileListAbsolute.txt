@@ -1,0 +1,15 @@
+D:\VSRepos\ulrp_leto\bin\Debug\net6.0\ulrp_leto.exe
+D:\VSRepos\ulrp_leto\bin\Debug\net6.0\ulrp_leto.deps.json
+D:\VSRepos\ulrp_leto\bin\Debug\net6.0\ulrp_leto.runtimeconfig.json
+D:\VSRepos\ulrp_leto\bin\Debug\net6.0\ulrp_leto.dll
+D:\VSRepos\ulrp_leto\bin\Debug\net6.0\ref\ulrp_leto.dll
+D:\VSRepos\ulrp_leto\bin\Debug\net6.0\ulrp_leto.pdb
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.csproj.AssemblyReference.cache
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.AssemblyInfoInputs.cache
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.AssemblyInfo.cs
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.csproj.CoreCompileInputs.cache
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.dll
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ref\ulrp_leto.dll
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.pdb
+D:\VSRepos\ulrp_leto\obj\Debug\net6.0\ulrp_leto.genruntimeconfig.cache

@@ -185,3 +185,88 @@ namespace Zadanie5
         }
     }
 }
+
+
+//1
+int S = int.Parse(Console.ReadLine());
+int V = int.Parse(Console.ReadLine());
+
+int H = V / S;
+Console.WriteLine(H);
+
+//2
+
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
+if (a < 3)
+{
+    Console.Error.WriteLine(a);
+}
+if (b < 3)
+{
+    Console.Error.WriteLine(b);
+}
+
+if (c < 3)
+{
+    Console.Error.WriteLine(c);
+}
+
+
+//3
+
+int N = int.Parse(Console.ReadLine());
+int count = 0;
+int[] mass = new int[N];
+
+for (int i = 0; i < N; i++)
+{
+    mass[i] = int.Parse(Console.ReadLine());
+}
+for (int i = 0; i < N; i++)
+{
+    if (mass[i] / 2 == 0)
+    {
+        count++;
+    }
+}
+Console.WriteLine(count);
+
+//4 zadanie
+
+int leviy = int.Parse(Console.ReadLine() ?? "");
+int praviy = int.Parse(Console.ReadLine() ?? "");
+int y;
+for (int i = leviy; i <= praviy; i++)
+{
+    Console.WriteLine($"x = {i}");
+    y = i * 2 + 3 * i - 17;
+    Console.WriteLine($"y = {y}\n");
+}
+
+//5zadanie
+
+int n = 0, s = 0, a = 1;
+while (a != 0)
+{
+    Console.Write("Введите целое число: ");
+    a = Convert.ToInt32(Console.ReadLine());
+    n++;
+}
+Console.WriteLine("Всего чисел = {1}", s, n);
+
+
+//6 zadanie
+
+int a1 = int.Parse(Console.ReadLine() ?? "");
+int b1 = int.Parse(Console.ReadLine() ?? "");
+int c1 = int.Parse(Console.ReadLine() ?? "");
+
+for (int i = a1; i <= b1; i++)
+{
+    if (i % c1 == 0)
+    {
+        Console.WriteLine($"{i}");
+    }
+}
